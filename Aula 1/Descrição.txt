@@ -66,4 +66,4 @@ CMS mais utilizado no mundo
 O que são frameworks?
 São bibliotecas que contém funcionalidades genéricas que facilitam o desenvolvimento de software
 
-Ex: Zend framework, Codelgniter, CakePHP e Lavarel
+Ex: Zend framework, Codelgniter, CakePHP e Lavarel.
