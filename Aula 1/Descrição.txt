@@ -1,0 +1,69 @@
+Como web site funciona?
+
+- Formato que o navegador consiga interpretar:
+Formato HTML ( abreviação para a expressão inglesa Hyper Text Markup Language) significa Linguagem de marcação de Hipertexto.
+HTML não é uma linguagem de progamação e sim uma linguagem de marcação de textos.
+
+- Computador conectado à internet:
+É preciso entender o Paradigma cliente servidor:  Os servidores geralmente são computadores de grande capacidade, que oferecem aos clientes recursos como discos, impressoras 
+bancos de dados, conexões com outras redes, serviços web..  Os clientes podem ser qualquer computador conectado ao sistema através da rede.
+
+Servidores web:
+- APACHE HTTP SERVER 
+- MICROSOFT IIS
+
+- Endereço na web:
+Também conhecida como URL, é uma referência a uma página ou recurso da ampla rede mundial da internet. Nada mais é que uma forma de acessar páginas da internet. Embora pareçam básica, 
+os endereços de páginas guardam informações importantes, por meio de uma URL uma página pode ser acessada o que seria possível apenas por uma sequência de números pode ser convertida
+pelo sistema DNS
+
+Desse modo, à página pode ser acessada por meio de um endereço mais fácil de memorizar. todos os elementos de um endereço que compõem uma URL seguem um padrão uniforme, por meio do 
+qual é possível identificar suas diferentes partes, como o protocolo, o domínio e os subdiretórios.
+
+O PHP:
+- Criado por Rasmus Lerdorf em 1994
+- Para substituir o PERL para aplicação web
+- Foi reescrito por Zeev e Andi Gutmans na versão PHP4 
+
+- Linguagem de programação web
+- Interpretada 
+- Gratuita e de código aberto
+- Suporte a orientação a objetos
+- Server-side
+
+Por que o PHP?
+
+- Por ser Server-side garante maior segurança, a aplicação é executada no servidor.
+- Interoperabilidade, permite acesso a partir de diversos sistemas operacionais uma vez que é web.
+
+Frameworks e Cms
+
+O que é um CMS? ( Content Management System)
+- Sistema de gerenciamento de Conteúdo 
+- Contém um website pré-estruturado
+- Permite a fácil edição de conteúdo do websit
+- Interface amigável 
+- Não requer grandes conhecimentos em programação
+
+Exemplo:
+
+Joomla!
+É utilizado em websites de:
+- Lojas virtuais
+- Blogs
+- Revistas online
+- Portais de conteúdo 
+- Jornais
+- Catálogos de produtos
+
+Wordpress
+CMS mais utilizado no mundo
+- Criação de Blogs
+- Sites profissionais
+- Contém uma vasta coleção de plugins e temas
+- Painel de controle
+
+O que são frameworks?
+São bibliotecas que contém funcionalidades genéricas que facilitam o desenvolvimento de software
+
+Ex: Zend framework, Codelgniter, CakePHP e Lavarel
